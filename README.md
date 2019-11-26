@@ -1,6 +1,2 @@
 # my_first
- my first commit
- 
-
-1
-
+ my first commit1
